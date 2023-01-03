@@ -1,0 +1,17 @@
+.container-cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(233, 203, 244);
+    width: 100%;
+    align-items: center;
+    justify-content:center;
+}
+.card-foto{
+    height: 100px;
+}
+.Tabla{
+    background-color: rgb(130, 130, 204);
+    height: 100px;
+    width: 100px;
+}
