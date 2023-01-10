@@ -24,6 +24,8 @@
     <form action="AgrgarCita.php" method="POST" enctype="multipart/form-data">
           <a href="Index.php" class="btn btn-dark">Regresar</a><br>
           <br>
+
+          
           <div class="mb-3">
                 <label for="exampleFormControlTextarea1" class="form-label">Consulta</label>
                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="Consulta"></textarea>
@@ -55,7 +57,7 @@
                 <input type="date" class="form-control" id="exampleFormControlInput1" name="Fecha" placeholder="">
           </div>
           <div class="mb-3">
-                <label for="exampleFormControlInput1" class="form-label">Conatcto</label>
+                <label for="exampleFormControlInput1" class="form-label">Contacto</label>
                 <input type="text" class="form-control" id="exampleFormControlInput1" name="Contacto" placeholder="name@example.com">
           </div>
           <button class="btn btn-info" type="submit">Enviar</button>

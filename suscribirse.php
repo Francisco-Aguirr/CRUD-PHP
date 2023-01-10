@@ -46,7 +46,7 @@
                     <label class="form-check-label" for="exampleCheck1">Check me out</label>
                 </div>
                 <button type="submit" class="btn btn-success" name="Registrar">Submit</button>
-                <a href="../mewamata/home.php" class="btn btn-primary">Inicio</a>
+                <a href="../mewamata/Login.php" class="btn btn-primary">Inicio</a>
         </form>
   </div>
   <!-- Bootstrap JavaScript Libraries -->

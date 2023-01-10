@@ -12,7 +12,7 @@
   $resultado = $conexion -> query($sql);
 
   if($resultado){
-    header('location: Index.php');  
+    header('location: LoginForm.php');  
   }else{
   echo "datos no insertados";
   }

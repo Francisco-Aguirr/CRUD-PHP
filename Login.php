@@ -17,37 +17,45 @@
   <br><br>
   <div class="container">
                 <div class="card mb-3">
-                <img src="../mewamata/favicon/pexels-miguel-á-padriñán-2882552.jpg" style= "height:300px" class="card-img-top" alt="...">
-                <div class="card-body">
+                <img src="../mewamata/favicon/quemado-de-papel-con-código-binario-21635012.jpg" style= "height:300px" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <h3 class="card-title">Consultorio de Coders</h3>
                     <h5 class="card-title">Bienvenido</h5>
-                    <p class="card-text">Inicia sesion o registrate para continuar.</p>
-                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                                <p class="card-text">Inicia sesión o registrate para continuar.</p>                  
+                                
+                    </div>
+                <div class="card-header">
+                            <ul class="nav nav-pills card-header-pills">
+                            <li class="nav-item">
+                                <a class="nav-link active" href="../mewamata/suscribirse.php">Suscribete</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="LoginForm.php">Inicia Sesión</a>
+                            </li>
+                            <p>
+            <a class="nav-link" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+                Acerca de
+            </a>
+            
+            </p>
+            <div class="collapse" id="collapseExample">
+            <div class="card card-body">
+                Este es un proyecto de caracter academico que implementa un CRUD básico, desarrollado como parte del Bootcamp Full Stack de Factoría F5.
+                El fronted fue desarrollado con Bootstrap y el backend con PHP usando la base de datos Mysql.
+            </div>
+            </div>
+                            </ul>
+                        </div>
                 </div>
-                </div>
+
+
+
         </div>
-<div class="container cont-login">
-       
-        <div class="login-box">
-        <h2>Login</h2>
-                    <form>
-                            <div class="user-box">
-                            <input type="text" name="" required="">
-                            <label>Username</label>
-                            </div>
-                            <div class="user-box">
-                            <input type="password" name="" required="">
-                            <label>Password</label>
-                            </div>
-                            <a href="#">
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                            Submit
-                            </a>
-                    </form>
-        </div>
-</div>
+
+
+
+
+
 
 
 

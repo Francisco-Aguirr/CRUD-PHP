@@ -10,17 +10,17 @@
       
 </head>
   <body>
-     <div class="container">
-      <br>
-      <center>
-      <h3>Lista de Citas</h3>
-      </center>
-     </div>
-    <br>
-   <div class="container">
-    <a href="Index.php" class="btn btn-dark">Regresar</a>
-   </div>
-   <br>
+            <div class="container">
+            <br>
+                <center>
+                <h3>Lista de Citas</h3>
+                </center>
+            </div>
+            <br>
+            <div class="container">
+                <a href="Index.php" class="btn btn-dark">Regresar</a>
+            </div>
+            <br>
         <div class="container">
               <br>
               <hr>
@@ -64,9 +64,6 @@
                 </tbody>
             <?php } ?>
             </table>
-                          
-                           
-                     
         </div>
 
         

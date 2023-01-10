@@ -30,7 +30,7 @@
                                 <a class="nav-link active" href="../mewamata/suscribirse.php">Suscribete</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="https://github.com/Francisco-Aguirr" target="_blanc">GitHub</a>
+                                <a class="nav-link" href="https://github.com/Francisco-Aguirr/mewamata" target="_blanc">GitHub</a>
                             </li>
                             <p>
             <a class="nav-link" data-bs-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
@@ -41,7 +41,7 @@
             <div class="collapse" id="collapseExample">
             <div class="card card-body">
                 Este es un proyecto de caracter academico que implementa un CRUD básico, desarrollado como parte del Bootcamp Full Stack de Factoría F5.
-                El fronted fue desarrollado con Boottrap y el backend con PHP usando la base de datos Mysql.
+                El fronted fue desarrollado con Bootstrap y el backend con PHP usando la base de datos Mysql.
             </div>
             </div>
                             </ul>
